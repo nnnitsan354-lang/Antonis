@@ -1,0 +1,30 @@
+h1{
+  text-align: center;
+  front-size:30px;
+  color: black;
+  border: 1px solid blue;
+  border-radius: 15px;
+}
+
+
+p{
+    front-size:30px;
+
+}
+
+img{
+
+    width: 120px;
+    height: 120px;
+
+}
+
+body{
+    background-color: aqua;
+}
+
+
+nav a{
+    background-color: beige;
+    text-decoration: none;
+    margin: 10px;
